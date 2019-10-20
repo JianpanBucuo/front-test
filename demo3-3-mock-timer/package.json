@@ -1,0 +1,23 @@
+{
+  "name": "demo2-2",
+  "version": "1.0.0",
+  "description": "前端自动化测试框架 jest",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest --watch",
+    "init": "jest --init",
+    "coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "axios": "^0.19.0",
+    "prettier": "^1.18.2"
+  }
+}
