@@ -1,0 +1,14 @@
+{
+  "name": "demo4-1-TDD",
+  "version": "1.0.0",
+  "description": "TDD\r 测试驱动开发\r Test Driven Development",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
